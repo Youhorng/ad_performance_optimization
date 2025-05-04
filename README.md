@@ -30,11 +30,11 @@ This project aims to solve this issue by developing a predictive system that ana
 - Address class imbalance through techniques like oversampling or undersampling.
 
 #### b. Model Training
-- Train various classification models (e.g., Logistic Regression, Random Forest, XGBoost).
+- Train classification model with Logistic Regression.
 - Tune hyperparameters and perform cross-validation to improve model performance.
 
 #### c. Model Evaluation
-- Evaluate the model using relevant metrics (e.g., accuracy, precision, recall, F1-score, AUC).
+- Evaluate the model using relevant metrics.
 - Select the best-performing model based on its ability to predict whether a user will click on an ad.
 
 ## Conclusion
